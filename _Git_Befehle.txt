@@ -1,0 +1,5 @@
+Datei/Ordner löschen von Repository, aber lokal behalten:
+
+git rm --cached meineDatei.py
+
+git rm --cached -r meinOrdner
