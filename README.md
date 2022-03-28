@@ -1,2 +1,2 @@
 # Lernen
-All kinds of Information for different Librarys in Python. Everything is written in Python. 
+All kinds of Information for different Libraries in Python. Everything is written in Python. 
