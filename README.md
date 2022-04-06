@@ -1,2 +1,2 @@
-# Lernen
-All kinds of Information for different Libraries in Python. Everything is written in Python. 
+# Pybliothek
+All kinds of Information for different Libraries in Python. Everything is written on a Jupyter Notebook. 
